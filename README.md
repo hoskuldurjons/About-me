@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Höskuldur.
 - 👀 I’m interested in business, finance, data analytics, data science, customer management and all sorts of programming.
-- 🌱 I’m currently learning business with an emphasis on Business Intelligence as well as self learning various programming languages and data visualization tools
-- using free online resources.
+- 🌱 I’m currently learning business with an emphasis on Business Intelligence as well as self learning various programming languages and data visualization tools using free online resources.
 - 📫 You can reach me at hoskuldurjons@gmail.com
 
 <!---
